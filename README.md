@@ -8,9 +8,9 @@ The default branch is named `nkansah`.
 ## Repository Structure
 
 The repository is organized as follows:
-* **Task1/**: Contains the Python script for image loading and grayscale conversion.
-* **Task2/**: Contains the Python script for color space conversion and histogram plotting.
-* **Task3/**: Contains the answer to the binary thresholding question.
+* **Task1**: Contains the Python script for image loading and grayscale conversion.
+* **Task2**: Contains the Python script for color space conversion and histogram plotting.
+* **Task3**: Contains the answer to the binary thresholding question.
 
 ---
 
