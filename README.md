@@ -1,6 +1,7 @@
 # 10984932_LAB_WORKS
 
-This repository contains my lab works for a Computer Vision course, organized into separate directories for each task. The default branch is named `nkansah`.
+This repository contains my lab works for Computer Vision, organized into separate directories for each task. 
+The default branch is named `nkansah`.  
 
 ---
 
@@ -22,3 +23,20 @@ To run the scripts in this repository, you'll need to have the following librari
 You can install them using pip:
 ```bash
 pip install opencv-python matplotlib
+```
+
+To run a specific task's script, navigate to its directory in your terminal and execute the Python file. For example:
+```bash
+cd Task1
+python task1_script.py
+```
+
+---
+
+## Note
+
++ All scripts are well-documented with comments explaining the code.
++ All output files (images, histograms) for each task are correctly saved and included in their respective directories.
++ The commit history is clean and descriptive, with a separate commit for each task.
++ All outputs are verified to be correctly saved and displayed.
+<br>
